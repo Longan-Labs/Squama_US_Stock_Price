@@ -73,9 +73,7 @@ void makeStr(char *s, char *r, int sstart, int sstop)
 }
 
 
-// var hq_str_hk00700="TENCENT,腾讯控股,581.000,573.000,602.000,581.000,592.000,19.000,3.316,591.500,592.000,20485305707,34524247,418.967,0.000,633.000,321.344,2021/01/11,15:43";
-
-int getUsStock(char *usCode, float *price, char *time, float *rise, float *rise2)      // rise: 涨跌幅，rise2: 涨跌额
+int getUsStock(char *usCode, float *price, char *time, float *rise, float *rise2)   
 {
     
     EthernetClient client;
