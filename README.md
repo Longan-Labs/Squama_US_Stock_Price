@@ -1,6 +1,6 @@
 ![](https://www.longan-labs.cc/media/wysiwyg/Categories/Categories-42.png)
 
-Demo for get the US stock price using [Squama Ethernet with PoE](https://www.longan-labs.cc/1050002.html)
+Demo for getting the US stock price using [Squama Ethernet with PoE](https://www.longan-labs.cc/1050002.html)
 
 More details please go to [Hackster.io](https://www.hackster.io/longan_labs/how-to-get-real-time-stocks-price-with-w5500-ethernet-board-d435b2)
 
